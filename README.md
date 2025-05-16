@@ -10,9 +10,9 @@ Antes de executar o projeto, você precisará ter o seguinte instalado:
 
 ## Configuração
 
-1.  **Clone o repositório:**
+1.  **Clone o repositório (se aplicável):**
     ```bash
-    
+    git clone git@github.com:Matheuszy/etl-pipeline-bitcoin.git
     ```
 
 2.  **Crie e configure o arquivo `.env`:**
@@ -73,6 +73,7 @@ Antes de executar o projeto, você precisará ter o seguinte instalado:
 * O script `pipeline.py` precisa estar rodando em segundo plano para que os dados sejam continuamente atualizados no banco de dados e, consequentemente, no dashboard.
 * Certifique-se de que as variáveis de ambiente no arquivo `.env` estejam corretamente configuradas para permitir a conexão com o banco de dados.
 * Para utilizar o agente, você precisará ter a biblioteca `agno` e as credenciais da Groq configuradas no seu ambiente.
+
 
 ## Contribuição
 
