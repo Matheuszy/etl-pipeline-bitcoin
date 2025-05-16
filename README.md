@@ -74,15 +74,6 @@ Antes de executar o projeto, você precisará ter o seguinte instalado:
 * Certifique-se de que as variáveis de ambiente no arquivo `.env` estejam corretamente configuradas para permitir a conexão com o banco de dados.
 * Para utilizar o agente, você precisará ter a biblioteca `agno` e as credenciais da Groq configuradas no seu ambiente.
 
-## Próximos Passos e Melhorias Possíveis
-
-* Adicionar mais criptomoedas ao pipeline e ao dashboard.
-* Implementar testes unitários e de integração para garantir a qualidade do código.
-* Melhorar a interface do dashboard com mais visualizações e funcionalidades.
-* Expandir as capacidades do agente para realizar análises mais complexas e fornecer insights.
-* Implementar um sistema de logging para monitorar a execução do pipeline.
-* Considerar o uso de um orquestrador de pipeline (como Apache Airflow ou Prefect) para gerenciar o fluxo de dados em um ambiente de produção.
-
 ## Contribuição
 
 Contribuições são bem-vindas! Se você tiver alguma sugestão de melhoria ou encontrar algum problema, sinta-se à vontade para abrir uma issue ou enviar um pull request.
